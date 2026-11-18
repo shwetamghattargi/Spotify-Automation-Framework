@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[HomepageTest Test Start]]>
+    </line>
+    <line>
+      <![CDATA[Step--1]]>
+    </line>
+    <line>
+      <![CDATA[Step--2]]>
+    </line>
+    <line>
+      <![CDATA[Step--3]]>
+    </line>
+    <line>
+      <![CDATA[Step--4]]>
+    </line>
+    <line>
+      <![CDATA[HomepageTest  Test end]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2026-10-30T13:00:43 IST" name="Default suite" finished-at="2026-10-30T13:00:43 IST" duration-ms="109">
+    <groups>
+    </groups>
+    <test started-at="2026-10-30T13:00:43 IST" name="Default test" finished-at="2026-10-30T13:00:43 IST" duration-ms="109">
+      <class name="com.practice.crm.contacTest.Report">
+        <test-method signature="HomepageTest(java.lang.reflect.Method)[pri:0, instance:com.practice.crm.contacTest.Report@7b98f307]" started-at="2026-10-30T13:00:43 IST" name="HomepageTest" finished-at="2026-10-30T13:00:43 IST" duration-ms="27" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.practice.crm.contacTest.Report.HomepageTest(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[HomepageTest Test Start]]>
+            </line>
+            <line>
+              <![CDATA[Step--1]]>
+            </line>
+            <line>
+              <![CDATA[Step--2]]>
+            </line>
+            <line>
+              <![CDATA[Step--3]]>
+            </line>
+            <line>
+              <![CDATA[Step--4]]>
+            </line>
+            <line>
+              <![CDATA[HomepageTest  Test end]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HomepageTest -->
+      </class> <!-- com.practice.crm.contacTest.Report -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
